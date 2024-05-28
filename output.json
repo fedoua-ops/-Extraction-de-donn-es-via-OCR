@@ -1,0 +1,72 @@
+[
+    {
+        "text": " ",
+        "confidence": 95,
+        "position": {
+            "x": 0,
+            "y": 0,
+            "width": 739,
+            "height": 468
+        }
+    },
+    {
+        "text": "",
+        "confidence": 95,
+        "position": {
+            "x": 128,
+            "y": 531,
+            "width": 142,
+            "height": 15
+        }
+    },
+    {
+        "text": "Gênes",
+        "confidence": 0.9999588430244524,
+        "position": {
+            "x": 284,
+            "y": 218,
+            "width": 76,
+            "height": 30
+        }
+    },
+    {
+        "text": "Camaldoli",
+        "confidence": 0.9999399176155841,
+        "position": {
+            "x": 593,
+            "y": 157,
+            "width": 60,
+            "height": 16
+        }
+    },
+    {
+        "text": "Bacino",
+        "confidence": 0.9338988177371237,
+        "position": {
+            "x": 234,
+            "y": 320,
+            "width": 35,
+            "height": 14
+        }
+    },
+    {
+        "text": "Vaccho",
+        "confidence": 0.6794338989149642,
+        "position": {
+            "x": 232,
+            "y": 340,
+            "width": 39,
+            "height": 14
+        }
+    },
+    {
+        "text": "Pag",
+        "confidence": 0.02489222714931189,
+        "position": {
+            "x": 240,
+            "y": 334,
+            "width": 24,
+            "height": 6
+        }
+    }
+]
